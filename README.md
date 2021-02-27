@@ -33,8 +33,7 @@ The following **additional** features are implemented:
 
 Here's a walkthrough of implemented user stories:
 
-<img src='![TwitterClientWalkthrough](https://submissions.us-east-1.linodeobjects.com/android_university/CXrzplHI.gif
-' title='Twitter Client Walkthrough' width='' alt='Video Walkthrough' />
+<img src='![TwitterClientWalkthrough](https://user-images.githubusercontent.com/77302011/109378552-5280f300-7888-11eb-99c0-fdc3871073fa.gif)' title='Twitter Client Walkthrough' width='' alt='Video Walkthrough' />
 
 GIF created with [LiceCap](http://www.cockos.com/licecap/).
 
